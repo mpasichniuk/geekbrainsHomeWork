@@ -13,7 +13,7 @@ public class HomeWorkApp {
         System.out.println("Apple");
     }
     public static void checkSumSign(){
-        int a = 5;
+        int a = 3;
         int b = 10;
         int result = a +b;
         if(result >=0){
@@ -23,7 +23,7 @@ public class HomeWorkApp {
         }
     }
     public static void printColor(){
-        int value = 99;
+        int value = 89;
         if(value <=0){
             System.out.println("Красный");
         }else if(value>0 && value<=100){
